@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hamza
+- 👋 Hi, I’m Hamza,
 - 👀 I am a highly motivated software developer with a strong interest in front-end development.
 - 🌱 I am actively learning advanced JavaScript topics and experimenting with Sequelize to communicate with PostgreSQL databases.
 - 💞️ I am always looking for new opportunities to collaborate and build incredible applications.
