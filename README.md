@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FouziH
+- 👋 Hi, I’m Hamza
 - 👀I am a passionate software developer with a particular interest in front-end development.
 - 🌱 Currently, I am dedicated to learning advanced JavaScript topics and Sequelize in order to communicate with PostgreSQL databases.
 - 💞️ I am always looking for new opportunities to collaborate and build amazing applications.
