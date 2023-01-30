@@ -11,7 +11,7 @@
     </ul>
   </div>
   <div style="display: flex; flex-direction: column; margin: 40px">
-    <img style="width: 177px; height: 33px" src="https://wakatime.com/badge/user/c1e853d7-9296-4c70-9e1c-0272f27968ae.svg" alt="wakatime" />
+    <img src="https://wakatime.com/badge/user/c1e853d7-9296-4c70-9e1c-0272f27968ae.svg" alt="wakatime" />
     <img src="https://wakatime.com/share/@Fouzih/80a2c1d5-ff82-4832-97a5-03c439f93ae9.svg" alt="">
   </div>
 
