@@ -8,7 +8,7 @@
       <li>💞️ I am always looking for new opportunities to collaborate and build incredible applications.</li>
       <li>📫 If you are interested in working with me or want to learn more about my skills and experience, you can
         contact me by email at hamzafowzi1@gmail.com.</li>
-      <li style="display: flex; flex-direction:column; gap: 20px; justify-content: space-between; align-items:flex-start">
+      <li style="display: flex; flex-direction:column !important; gap: 20px; justify-content: space-between; align-items:flex-start">
           <img style="width: 177px; height: 33px" src="https://wakatime.com/badge/user/c1e853d7-9296-4c70-9e1c-0272f27968ae.svg" alt="wakatime" />
           <img style="width: 500px; height: 500px" src="https://wakatime.com/share/@Fouzih/e4f1f354-53bc-439d-99da-7fef0c47d0bd.svg" alt="wakatime">
       </li>
